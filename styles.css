@@ -23,13 +23,19 @@ body {
 
 .img-1 {
    background-image: url("tea_ginger_lemon.png");
+   background-size: cover;
 }
 
 .text-right {
     width: 600px;
 }
 
-.container-header {
+.newsletter-section {
+    
+    height: 200px;
+    background-image: url("tea_ginger_lemon.png");
+    background-size: 200px;
+    background-repeat: no-repeat;
     
 }
 
