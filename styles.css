@@ -27,8 +27,13 @@ body {
     color: gold
 }
 
+.main {
+    background-image: url("pexels-karolina-grabowska-4871365\ 1.png");
+    background-size: cover;
+}
+
 .img-1 {
-   background-image: url("tea_ginger_lemon.png");
+   background-image: url("pexels-karolina-grabowska-4871365\ 1.png");
    background-size: cover;
 }
 
