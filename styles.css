@@ -21,6 +21,10 @@ body {
     font-family: open-sans;
 }
 
+.top-image {
+    height: 1000px;
+}
+
 .title {
     font-family: script;
     font-size: 90px;
