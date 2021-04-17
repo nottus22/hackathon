@@ -1,5 +1,17 @@
+@font-face {
+    font-family: romantic;
+    src: url(romantic.ttf);
+}
+
+header {
+    font-family: romantic;
+    color: gold;
+    font-size: 80px;
+}
+
 body{
     background-color: black;
+    color: white
 }
 
 .circles {
