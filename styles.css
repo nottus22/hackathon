@@ -49,3 +49,7 @@ body {
     border-radius: 50%;
     border: 1px solid grey;
 }
+
+.main{
+    background-color: orange;
+}
