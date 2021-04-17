@@ -24,7 +24,8 @@ body {
 .title {
     font-family: script;
     font-size: 90px;
-    color: gold
+    color: gold;
+    text-align: left;
 }
 
 .img-1 {
@@ -42,7 +43,8 @@ body {
     background-image: url("tea_ginger_lemon.png");
     background-size: 200px;
     background-repeat: no-repeat;
-.button-md:active {
+}
+    .button-md:active {
     background: black;
 }
 
