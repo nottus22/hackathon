@@ -1,6 +1,6 @@
 @font-face {
     font-family: romantic;
-    src: url(romantic.ttf);
+    src:url(Romantic.ttf);
 }
 
 nav {
@@ -15,9 +15,34 @@ body {
     color: white
 }
 
-header {
+.title {
+    font-family: romantic;
+    font-size: 90px;
+    color: gold
+}
+
+.img-1 {
+   width: 100%;
+   height: 100%
+}
+
+.text-right {
+    width: 600px;
+}
+
+.container-header {
     
 }
+
+.card {
+    width: 800px
+}
+
+.widgets {
+    border: 1px solid grey;
+    border-radius: 25px
+}
+
 .circles {
     width: 100px;
     height: 100px;
