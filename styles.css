@@ -17,7 +17,7 @@ nav {
 
 body {
     background-color: black;
-    color: white
+    color: white;
     font-family: open-sans;
 }
 
@@ -43,13 +43,15 @@ body {
     background-image: url("tea_ginger_lemon.png");
     background-size: 200px;
     background-repeat: no-repeat;
+
 }
-    .button-md:active {
+
+.button-md:active {
     background: black;
 }
 
 .container-header {
-    
+    height: 600px;
 }
 
 .card {
