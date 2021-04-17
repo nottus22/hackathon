@@ -3,17 +3,21 @@
     src: url(romantic.ttf);
 }
 
-header {
+nav {
     font-family: romantic;
+    background-color: black;
     color: gold;
     font-size: 80px;
 }
 
-body{
+body {
     background-color: black;
     color: white
 }
 
+header {
+    
+}
 .circles {
     width: 100px;
     height: 100px;
