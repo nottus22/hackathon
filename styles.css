@@ -3,6 +3,11 @@
     src:url(KaushanScript-Regular.ttf);
 }
 
+@font-face {
+    font-family: open-sans;
+    src:url(OpenSans-Regular.ttf)
+}
+
 nav {
     font-family: script;
     background-color: black;
@@ -13,6 +18,7 @@ nav {
 body {
     background-color: black;
     color: white
+    font-family: open-sans;
 }
 
 .title {
