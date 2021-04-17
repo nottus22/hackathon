@@ -1,10 +1,10 @@
 @font-face {
-    font-family: romantic;
-    src:url(Romantic.ttf);
+    font-family: script;
+    src:url(KaushanScript-Regular.ttf);
 }
 
 nav {
-    font-family: romantic;
+    font-family: script;
     background-color: black;
     color: gold;
     font-size: 80px;
@@ -16,7 +16,7 @@ body {
 }
 
 .title {
-    font-family: romantic;
+    font-family: script;
     font-size: 90px;
     color: gold
 }
@@ -50,5 +50,5 @@ body {
 }
 
 .main{
-    background-color: orange;
+    ;
 }
