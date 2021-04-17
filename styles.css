@@ -1,10 +1,15 @@
 @font-face {
-    font-family: romantic;
-    src:url(Romantic.ttf);
+    font-family: script;
+    src:url(KaushanScript-Regular.ttf);
+}
+
+@font-face {
+    font-family: open-sans;
+    src:url(OpenSans-Regular.ttf)
 }
 
 nav {
-    font-family: romantic;
+    font-family: script;
     background-color: black;
     color: gold;
     font-size: 80px;
@@ -13,10 +18,11 @@ nav {
 body {
     background-color: black;
     color: white
+    font-family: open-sans;
 }
 
 .title {
-    font-family: romantic;
+    font-family: script;
     font-size: 90px;
     color: gold
 }
@@ -36,6 +42,11 @@ body {
     background-image: url("tea_ginger_lemon.png");
     background-size: 200px;
     background-repeat: no-repeat;
+.button-md:active {
+    background: black;
+}
+
+.container-header {
     
 }
 
@@ -56,5 +67,5 @@ body {
 }
 
 .main{
-    background-color: orange;
+    
 }
