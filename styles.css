@@ -28,8 +28,13 @@ body {
     text-align: left;
 }
 
+.main {
+    background-image: url("pexels-karolina-grabowska-4871365\ 1.png");
+    background-size: cover;
+}
+
 .img-1 {
-   background-image: url("tea_ginger_lemon.png");
+   background-image: url("pexels-karolina-grabowska-4871365\ 1.png");
    background-size: cover;
 }
 
@@ -43,7 +48,10 @@ body {
     background-image: url("tea_ginger_lemon.png");
     background-size: 200px;
     background-repeat: no-repeat;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0f35b55b13cef5fda08ce70ebb331dcfb5d88021
 }
 
 .button-md:active {
